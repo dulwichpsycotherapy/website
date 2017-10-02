@@ -1,0 +1,52 @@
+# site settings
+title: Dulwich Pyscotherapy
+subtitle: Dr. Paola Valerio
+email: hamish@hamishhossack.co.uk
+description: Dr Paola Valerio is a jungian analyst offering psychotherapy, therapy and counselling.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author: Hamish Hossack
+street_address: 170 Lowden Road
+city: London
+state: London
+zip_code: SE24 0BT
+country: United Kingdom
+phone: 020 7733 8526
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+plugins:
+ - jekyll-assets
+ - jekyll-seo-tag
+ - jekyll-sitemap
+
+assets:
+  autowrite: true
+  prefix: "/assets"
+  digest: true
+  sources:
+    - _assets/css
+    - _assets/images
+    - _assets/fonts
+    - _assets/js
+  sass:
+    style: nested
+    line_numbers: true
+    sourcemap: file
