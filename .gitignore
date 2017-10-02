@@ -1,6 +1,7 @@
 *.gem
 *.swp
 *~
+.asset-cache/
 .DS_Store
 .analysis
 .bundle/
