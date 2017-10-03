@@ -26,8 +26,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			{% img 'pic08.jpg' data-position:'center center' %}
+		<a href="landing.html" class="image">
+			{% img 'pic08.jpg' data-position:'center center' alt: 'pic' %}
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 		</header>
 		<p>If I am busy with a client then please leave a message on the answer phone, or send me an email. I will reply to your query as soon as possible, within 24 hours.</p>
 		<ul class="actions">
-			<li><a href="contact.html" class="button next">Contact</a></li>
+			<li><a href="landing.html" class="button next">Contact</a></li>
 		</ul>
 	</div>
 </section>
