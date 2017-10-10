@@ -12,7 +12,7 @@ task :deploy do
       :timeframe => '6w'
     },
   }
-  # HTMLProofer.check_directory("./_site", options).run
+  HTMLProofer.check_directory("./_site", options).run
   sh "cp -r ./.asset-cache ./assets"
   sh "rm -r _assets"
 end
