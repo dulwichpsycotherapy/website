@@ -6,4 +6,5 @@ group :plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "font-awesome-sass"
+  gem "html-proofer"
 end

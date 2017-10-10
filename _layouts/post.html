@@ -17,7 +17,7 @@
           <header class="major">
             <h1>{{ page.title }}</h1>
           </header>
-          {% if page.image %}<span class="image main">{% img '{{page.image}}' alt:'' %}</span>{% endif %}
+          {% if page.image %}<span class="image main">{% img '{{page.image}}' alt:'{{page.title}}' %}</span>{% endif %}
           <p>{{ content }}</p>
         </div>
       </section>

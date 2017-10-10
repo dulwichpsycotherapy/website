@@ -26,7 +26,7 @@ nav-menu: true
         marriage is about integrating within that which drew us to the other.</p>
         <div class="row">
             <div class="6u 12u$(small)">
-                <span class="image fit">{% img 'pic03.jpg' alt:'' %}</span>
+                <span class="image fit">{% img 'pic03.jpg' alt:'pic' %}</span>
             </div>
             <div class="6u$ 12u$(small)">
                 <h2>Where I can help</h2>

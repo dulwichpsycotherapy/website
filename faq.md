@@ -23,7 +23,7 @@ nav-menu: true
         <p class="mdownf">Unfortunately Psychoanalytic Psychotherapy is not widely available in an equitable manner in the NHS, but it is always worth asking your GP for a referral for NHS Psychotherapy. </p>
         <p class="mdownf">Most General Practitioners also have Counsellors who can offer short-term therapy usually up to six sessions. </p>
         <p class="mdownf">Cognitive Behavioural Therapy (CBT) is increasingly being recommended to patients in the NHS. This can be an effective method of treatment in the short - term, but it is important to look at the longer - term evidence for effectiveness of any psychotherapy treatment whether psychoanalytic or cognitive.</p>
-        <p class="mdownf">Contact the <a href="http://www.psychotherapy.org.uk/">UKCP</a> or <a href="http://www.psychoanalytic-council.org/">BPC</a> for further information.</p>
+        <p class="mdownf">Contact the <a href="http://www.psychotherapy.org.uk/">UKCP</a> or <a href="https://www.bpc.org.uk/">BPC</a> for further information.</p>
     </div>
     <div class="6u$ 12u$(small)">
         <h3 class="altcoldark mdownf mup">Is it safe to see a Trainee Psychotherapist?</h3>
@@ -390,29 +390,29 @@ Finally, this is a <a href="#">link</a>.</p>
 <h3>Image</h3>
 
 <h4>Fit</h4>
-<span class="image fit">{% img 'pic03.jpg' alt:'' %}</span>
+<span class="image fit">{% img 'pic03.jpg' alt:'fit' %}</span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit">{% img 'pic08.jpg' alt:'' %}</span></div>
-		<div class="4u"><span class="image fit">{% img 'pic09.jpg' alt:'' %}</span></div>
-		<div class="4u$"><span class="image fit">{% img 'pic10.jpg' alt:'' %}</span></div>
+		<div class="4u"><span class="image fit">{% img 'pic08.jpg' alt:'fit' %}</span></div>
+		<div class="4u"><span class="image fit">{% img 'pic09.jpg' alt:'fit' %}</span></div>
+		<div class="4u$"><span class="image fit">{% img 'pic10.jpg' alt:'fit' %}</span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit">{% img 'pic10.jpg' alt:'' %}</span></div>
-		<div class="4u"><span class="image fit">{% img 'pic08.jpg' alt:'' %}</span></div>
-		<div class="4u$"><span class="image fit">{% img 'pic09.jpg' alt:'' %}</span></div>
+		<div class="4u"><span class="image fit">{% img 'pic10.jpg' alt:'fit' %}</span></div>
+		<div class="4u"><span class="image fit">{% img 'pic08.jpg' alt:'fit' %}</span></div>
+		<div class="4u$"><span class="image fit">{% img 'pic09.jpg' alt:'fit' %}</span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit">{% img 'pic09.jpg' alt:'' %}</span></div>
-		<div class="4u"><span class="image fit">{% img 'pic10.jpg' alt:'' %}</span></div>
-		<div class="4u$"><span class="image fit">{% img 'pic08.jpg' alt:'' %}</span></div>
+		<div class="4u"><span class="image fit">{% img 'pic09.jpg' alt:'fit' %}</span></div>
+		<div class="4u"><span class="image fit">{% img 'pic10.jpg' alt:'fit' %}</span></div>
+		<div class="4u$"><span class="image fit">{% img 'pic08.jpg' alt:'fit' %}</span></div>
 	</div>
 </div>
 
 <h4>Left &amp; Right</h4>
-<p><span class="image left">{% img 'pic09.jpg' alt:'' %}</span>Lorem ipsum dolor sit accumsan interdum nisi, quis
+<p><span class="image left">{% img 'pic09.jpg' alt:'fit' %}</span>Lorem ipsum dolor sit accumsan interdum nisi, quis
 tincidunt
 
 felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right">{% img 'pic10.jpg' alt:'' %}</span>Lorem ipsum dolor sit accumsan interdum nisi, quis
+<p><span class="image right">{% img 'pic10.jpg' alt:'fit' %}</span>Lorem ipsum dolor sit accumsan interdum nisi, quis
 tincidunt
 
 felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
