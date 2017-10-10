@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gemspec
 
-group :plugins do
+group :jekyll_plugins do
   gem "jekyll-assets"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"

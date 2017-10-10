@@ -31,9 +31,9 @@ twitter_url: ''
 
 # build settings
 markdown: kramdown
-exclude: [vendor]
+exclude: ["vendor"]
 
-plugins:
+jekyll_plugins:
  - jekyll-assets
  - jekyll-seo-tag
  - jekyll-sitemap
