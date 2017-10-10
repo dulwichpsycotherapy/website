@@ -4,7 +4,7 @@ subtitle: Dr. Paola Valerio
 email: hamish@hamishhossack.co.uk
 description: Dr Paola Valerio is a jungian analyst offering psychotherapy, therapy and counselling.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "hamishhossack.co.uk/dulwich-psycotherapy" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: Hamish Hossack
 street_address: 170 Lowden Road
 city: London
