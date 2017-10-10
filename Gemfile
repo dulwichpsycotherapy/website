@@ -7,4 +7,5 @@ group :plugins do
   gem "jekyll-sitemap"
   gem "font-awesome-sass"
   gem "html-proofer"
+  gem "github-pages"
 end
