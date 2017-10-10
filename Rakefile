@@ -11,7 +11,6 @@ task :test do
     :cache => {
       :timeframe => '6w'
     },
-    :log_level => 'debug'
   }
   HTMLProofer.check_directory("./_site", options).run
 end
