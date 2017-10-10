@@ -38,7 +38,7 @@ nav-menu: true
                     <li>Senior Professional Member of the British Association of Psychotherapists <a href="http://www.bap-psychotherapy.org" target="_blank">BAP</a></li>
                     <li>Member of the International Association of Analytical Psychology <a href="http://www.iaap.org" target="_blank">(IAAP)</a></li>
                     <li>Felis feugiat viverra.</li>
-                    <li>Registered with the British Psychoanalytic Council <a href="http://www.psychoanalytic-council.org" target="_blank">BPC</a></li>
+                    <li>Registered with the British Psychoanalytic Council <a href="https://www.bpc.org.uk/" target="_blank">BPC</a></li>
                     <li>Registered Member of the United Kingdom For Psychotherapy <a href="http://www.ukcp.org.uk" target="_blank">UKCP</a></li>
                     <li>Full member of the Association for Psychoanalytic Psychotherapy in the <a href="http://www.nhs.uk" target="_blank">NHS</a></li>
                 </ul>
