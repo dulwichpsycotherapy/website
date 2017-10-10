@@ -13,4 +13,6 @@ task :deploy do
     },
   }
   HTMLProofer.check_directory("./_site", options).run
+  sh "cp -r ./assets-cache ./assets"
+  sh "rm -r _assets"
 end
