@@ -31,7 +31,6 @@ twitter_url: ''
 
 # build settings
 markdown: kramdown
-exclude: ["vendor"]
 
 plugins:
  - jekyll-assets

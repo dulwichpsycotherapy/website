@@ -13,12 +13,18 @@ addons:
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: rake test
+script: rake deploy
+
+after_success:
+  - rsync -az --delete --exclude '.git*' ../_site/ .
+  - touch .nojekyll
 
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master # test the gh-pages branch
+  - master # test the master branch
+
+exclude: [vendor]
 
 env:
   global:
