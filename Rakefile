@@ -4,9 +4,7 @@ task :test do
   sh "bundle exec jekyll build"
   options = {
     :allow_hash_href => true,
-    :log_level => 'debug',
-    :ssl_verifypeer => false,
-    :ssl_verifyhost => 0
+    :log_level => 'debug'
   }
   HTMLProofer.check_directory("./_site", options).run
 end
