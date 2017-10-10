@@ -16,7 +16,7 @@ addons:
 script: rake deploy
 
 after_success:
-  - rsync -az --delete --exclude '.git*' ../_site/ .
+  - rsync -az --delete --exclude '.git*' _site/ .
   - touch .nojekyll
 
 # branch whitelist, only for GitHub Pages
