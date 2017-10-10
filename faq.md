@@ -23,7 +23,7 @@ nav-menu: true
         <p class="mdownf">Unfortunately Psychoanalytic Psychotherapy is not widely available in an equitable manner in the NHS, but it is always worth asking your GP for a referral for NHS Psychotherapy. </p>
         <p class="mdownf">Most General Practitioners also have Counsellors who can offer short-term therapy usually up to six sessions. </p>
         <p class="mdownf">Cognitive Behavioural Therapy (CBT) is increasingly being recommended to patients in the NHS. This can be an effective method of treatment in the short - term, but it is important to look at the longer - term evidence for effectiveness of any psychotherapy treatment whether psychoanalytic or cognitive.</p>
-        <p class="mdownf">Contact the <a href="http://www.psychotherapy.org.uk/">UKCP</a> or <a href="http://www.psychoanalytic-council.org/">BPC</a> for further information.</p>
+        <p class="mdownf">Contact the <a href="http://www.psychotherapy.org.uk/">UKCP</a> or <a href="https://www.bpc.org.uk/">BPC</a> for further information.</p>
     </div>
     <div class="6u$ 12u$(small)">
         <h3 class="altcoldark mdownf mup">Is it safe to see a Trainee Psychotherapist?</h3>
