@@ -1,6 +1,6 @@
 require 'html-proofer'
 
-task :test do
+task :deploy do
   sh "bundle exec jekyll build"
   options = {
     :allow_hash_href => true,
