@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="landing.html" class="image">
-			{% img 'pic08.jpg' data-position:'center center' alt: 'pic' %}
+			{% img 'pic08.jpg' data-position:'center center' alt:'pic' %}
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="landing.html" class="image">
-			{% img 'pic09.jpg' data-position:'top center' alt: 'pic' %}
+			{% img 'pic09.jpg' data-position:'top center' alt:'pic' %}
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -56,7 +56,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="landing.html" class="image">
-			{% img 'pic10.jpg' data-position:'25% 25%' alt: 'pic' %}
+			{% img 'pic10.jpg' data-position:'25% 25%' alt:'pic' %}
 		</a>
 		<div class="content">
 			<div class="inner">
