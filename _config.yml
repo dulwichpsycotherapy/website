@@ -33,7 +33,7 @@ twitter_url: ''
 markdown: kramdown
 exclude: ["vendor"]
 
-jekyll_plugins:
+plugins:
  - jekyll-assets
  - jekyll-seo-tag
  - jekyll-sitemap
@@ -51,3 +51,5 @@ assets:
     style: nested
     line_numbers: true
     sourcemap: file
+  features:
+    automatic_img_alt: true
