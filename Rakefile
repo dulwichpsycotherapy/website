@@ -1,7 +1,6 @@
 require 'html-proofer'
 
-task :deploy do
-  sh "bundle exec jekyll build"
+task :test do
   options = {
     :allow_hash_href => true,
     :check_sri => true,
@@ -13,6 +12,12 @@ task :deploy do
     }
   }
   HTMLProofer.check_directory("./_site", options).run
-  sh "cp -r ./.asset-cache ./assets"
-  sh "rm -r _assets"
+end
+
+task :deploy do
+  sh "bundle exec jekyll build"
+
+  Rake::Task["test"].invoke
+
+  sh "cp -r ./.asset-cache ./assets && rm -r _assets"
 end
