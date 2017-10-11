@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem "font-awesome-sass"
   gem "html-proofer"
   gem "github-pages"
+  gem "image_optim"
 end

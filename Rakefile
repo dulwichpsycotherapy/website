@@ -15,7 +15,7 @@ task :test do
 end
 
 task :deploy do
-  sh "bundle exec jekyll build"
+  sh "JEKYLL_ENV=production bundle exec jekyll build"
 
   Rake::Task["test"].invoke
 

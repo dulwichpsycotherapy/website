@@ -92,6 +92,7 @@
 		<ul class="copyright">
 			<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 			<li>Design: <a href="http://hamishhossack.co.uk" target="_blank">Hamish Hossack</a></li>
+			<li><a href="/sitemap.xml">Sitemap</a></li>
 		</ul>
 	</div>
 </footer>
@@ -99,5 +100,5 @@
 </div>
 
 <!-- Scripts -->
-{% js main %}
-<!--[if lte IE 8]>{% js vendors/ie/respond.min %}<![endif]-->
+{% js main async %}
+<!--[if lte IE 8]>{% js vendors/ie/respond.min async %}<![endif]-->
