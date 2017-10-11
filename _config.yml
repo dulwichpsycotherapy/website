@@ -38,6 +38,9 @@ plugins:
  - jekyll-sitemap
 
 assets:
+  compress:
+    js: true
+    css: true
   autowrite: true
   prefix: "/assets"
   digest: true
