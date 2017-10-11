@@ -3,6 +3,9 @@
 //= require vendors/jquery.scrolly
 //= require vendors/skel
 
+/**
+ * Initialise the application skel
+ */
 (function($) {
 
 	skel.breakpoints({

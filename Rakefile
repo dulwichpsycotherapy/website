@@ -3,7 +3,7 @@ require 'html-proofer'
 task :test do
   options = {
     :allow_hash_href => true,
-    :check_sri => true,
+    :check_sri => false,
     :check_external_hash => true,
     :check_html => true,
     :check_img_http => true,
@@ -15,7 +15,7 @@ task :test do
 end
 
 task :deploy do
-  sh "JEKYLL_ENV=production bundle exec jekyll build"
+  sh "JEKYLL_ENV=production jekyll build"
 
   Rake::Task["test"].invoke
 
