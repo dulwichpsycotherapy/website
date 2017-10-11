@@ -10,7 +10,7 @@ task :deploy do
     :check_img_http => true,
     :cache => {
       :timeframe => '6w'
-    },
+    }
   }
   HTMLProofer.check_directory("./_site", options).run
   sh "cp -r ./.asset-cache ./assets"
