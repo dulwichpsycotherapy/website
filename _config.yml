@@ -53,8 +53,6 @@ assets:
   features:
     automatic_img_alt: true
   image_optim:
-    default:
-      verbose: true
     zero_png:
       advpng:
         level: 0
