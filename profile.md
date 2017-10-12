@@ -27,7 +27,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/" class="image">
-			{% img 'pic08.jpg' data-position:'center center' alt:'pic' %}
+			{% img 'pic08.jpg' data-position:'center center' alt:'pic' image_optim:default %}
 		</a>
 		<div class="content">
 			<div class="inner">
