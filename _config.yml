@@ -1,11 +1,11 @@
 # site settings
 title: Dulwich Pyscotherapy
 subtitle: Dr. Paola Valerio
-email: hamish@hamishhossack.co.uk
+email: paola@dulwichpsycotherapy.com
 description: Dr Paola Valerio is a jungian analyst offering psychotherapy, therapy and counselling.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: Hamish Hossack
+author: Paola Valerio
 street_address: 170 Lowden Road
 city: London
 state: London

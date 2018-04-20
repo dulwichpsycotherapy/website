@@ -3,7 +3,6 @@ id: 4
 title: Dr. Paola Valerio
 layout: landing
 description: 'BPC/ UKCP Registered Psychotherapist/Jungian Analyst who has over twenty years of experience working in the NHS and in Specialist Psychotherapy Services and Professional Training.'
-image: pic07.jpg
 nav-menu: true
 ---
 <!-- Main -->

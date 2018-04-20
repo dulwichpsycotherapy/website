@@ -1,50 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="is-loading">
+<body class="is-loading">
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <!-- Banner -->
-    <section id="banner" class="major">
+  <!-- Banner -->
+  <section id="banner" class="major">
+    <div class="inner">
+      <header class="major">
+        <h1>{{ page.landing-title }}</h1>
+      </header>
+      <div class="content">
+        <p class="uppercase">{{ site.description }}</p>
+        <ul class="actions">
+          <li>
+            <a href="#one" class="button next scrolly">Get Started</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main -->
+  <div id="main">
+
+    <!-- One -->
+    {% include tiles.html %}
+
+    <!-- Two -->
+    <section id="two" class="alt">
       <div class="inner">
         <header class="major">
-          <h1>{{ page.landing-title }}</h1>
+          <h2>Dr. Paola Valerio</h2>
         </header>
-        <div class="content">
-          <p class="uppercase">{{ site.description }}</p>
-          <ul class="actions">
-            <li><a href="#one" class="button next scrolly">Get Started</a></li>
-          </ul>
-        </div>
+        {{ content }}
+        <ul class="actions">
+          <li>
+            <a href="/" class="button next">Get Started</a>
+          </li>
+        </ul>
       </div>
     </section>
 
-    <!-- Main -->
-    <div id="main">
+  </div>
 
-      <!-- One -->
-      {% include tiles.html %}
+  {% include footer.html %}
 
-      <!-- Two -->
-      <section id="two">
-        <div class="inner">
-          <header class="major">
-            <h2>Dr. Paola Valerio</h2>
-          </header>
-          {{ content }}
-          <ul class="actions">
-            <li><a href="/" class="button next">Get Started</a></li>
-          </ul>
-        </div>
-      </section>
-
-    </div>
-
-    {% include footer.html %}
-
-  </body>
+</body>
 
 </html>

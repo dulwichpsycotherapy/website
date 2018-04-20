@@ -2,15 +2,16 @@
 id: 1
 layout: landing
 title: First Meet
-description: “Be yourself; everyone else is already taken.” Oscar Wilde
-image: first-meet.jpg
+description: “Be yourself; everyone else is already taken.” Oscar Wilde An initial telephone consultation is offered without cost as a preliminary exploration and screening tool to get an idea of how I can help and what is the right approach for you.
 nav-menu: true
 ---
 
 <!-- Main -->
+
 <div id="main">
 
 <!-- One -->
+
 <section id="one">
 	<div class="inner">
 		<p>An initial telephone consultation is offered without cost as a preliminary exploration and screening tool to
@@ -19,6 +20,7 @@ nav-menu: true
 </section>
 
 <!-- two -->
+
 <section id="two" class="spotlights">
 	<section>
 		<a href="/" class="image">

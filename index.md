@@ -4,7 +4,6 @@ layout: home
 title: Home
 landing-title: 'Looking beyond the surface...'
 description: null
-image: null
 author: Hamish Hossack
 ---
 
