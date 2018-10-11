@@ -1,6 +1,8 @@
 <section id="one" class="tiles">
-    {% assign pages = site.pages | sort: 'id' | reverse %} {% for page in pages limit:site.tiles-count %} {% if site.tiles-source
-    == 'pages' %} {% if page.title == 404 or page.title == 'Home' %}{% continue %}{% endif %}
+    {% assign pages = site.pages | sort: 'id' | reverse %} {% for page in pages limit:site.tiles-count %} {% if
+    site.tiles-source
+    == 'pages' %} {% if page.title == 404 or page.title == 'Home' or page.title == 'Contact' %}{% continue %}{% endif
+    %}
     <article>
         {% if page.image %}
         <span class="image">

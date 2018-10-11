@@ -1,1 +1,1 @@
-# Dulwich Psycotherapy Website
+# Dulwich psychotherapy Website

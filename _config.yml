@@ -1,10 +1,10 @@
 # site settings
-title: Dulwich Pyscotherapy
+title: Dulwich Pyschotherapy
 subtitle: Dr. Paola Valerio
-email: paola@dulwichpsycotherapy.com
-description: Dr Paola Valerio is a jungian analyst offering psychotherapy, therapy and counselling.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+email: paola@dulwichpsychsotherapy.com
+description: Dr Paola Valerio is a jungian analyst offering psychotherapy, therapy, counselling and couples counselling.
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site
 author: Paola Valerio
 street_address: 170 Lowden Road
 city: London
@@ -18,28 +18,28 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
+500px_url: null
+facebook_url: null
+github_url: null
+gitlab_url: null
+googleplus_url: null
+instagram_url: null
+linkedin_url: null
+pinterest_url: null
+slack_url: null
+twitter_url: null
 
 # build settings
 markdown: kramdown
 
 plugins:
- - jekyll-assets
- - jekyll-seo-tag
- - jekyll-sitemap
+  - jekyll-assets
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 assets:
   autowrite: true
-  prefix: "/assets"
+  prefix: '/assets'
   digest: true
   sources:
     - _assets/css
