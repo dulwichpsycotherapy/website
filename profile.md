@@ -53,7 +53,7 @@ nav-menu: true
 		</header>
 		<p>If I am busy with a client then please leave a message on the answer phone, or send me an email. I will reply to your query as soon as possible, within 24 hours outside of leave periods.</p>
 		<ul class="actions">
-			<li><a href="/contact" class="button next">Contact</a></li>
+			<li><a href="{{ 'contact.html' | relative_url  }}" class="button next">Contact</a></li>
 		</ul>
 	</div>
 </section>

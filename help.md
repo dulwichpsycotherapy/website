@@ -92,7 +92,7 @@ nav-menu: true
     				 </div>
     		</div>
     		<ul class="actions">
-    			<li><a href="/contact" class="button next">Contact</a></li>
+    			<li><a href="{{ 'contact.html' | relative_url  }}" class="button next">Contact</a></li>
     		</ul>
     		<hr>
     		<blockquote>What attracts us to our partners is often the very thing that makes us eventually drift apart. Psychological

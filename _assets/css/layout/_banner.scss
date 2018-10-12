@@ -21,7 +21,7 @@
     @include vendor('transition', 'opacity #{_duration(banner)} ease');
     @include vendor('transition-delay', '0.35s');
     @include vendor('pointer-events', 'none');
-    @include vendor('background-image', url(asset_path('paola.jpg')));
+    @include vendor('background-image', url(asset_path('banner.jpg')));
     background-color: _palette(fg-alt);
     background-size: cover;
     background-position: 0 15%;
