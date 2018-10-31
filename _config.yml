@@ -6,9 +6,9 @@ description: Dr Paola Valerio is a jungian analyst offering psychotherapy, thera
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site
 author: Paola Valerio
-street_address: 170 Lowden Road
+street_address: Herne Hill
 city: London
-state: London
+state: ''
 zip_code: SE24 0BT
 country: United Kingdom
 phone: 020 7733 8526

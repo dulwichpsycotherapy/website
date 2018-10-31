@@ -17,7 +17,7 @@ nav-menu: true
     			<h1>Where can I Help?</h1>
     			<blockquote>We live in a society where we want a quick fix to most of our problems, be that drugs or mind - altering
     			and shorter cognitive therapies.
-    			<br>Yet, relationship difficulties often have longer-term roots stemming from early childhood patterns or relationships with significant people in our lives, including parents, siblings and partners and therapy offers an opportunity to build a secure relationship to deal with anything that is holding you back, you may begin to see the world through a new lens. I work alongside clients and see that we are joint partners in any therapy experience . My aim is not to keep you in therapy but to allow you to set the pace.</blockquote>
+    			<br>Yet, relationship difficulties often have longer-term roots stemming from early childhood patterns or relationships with significant people in our lives, including parents, siblings and partners. Therapy can offer an opportunity to build a secure relationship to deal with anything that is holding you back, you may begin to see the world through a new lens. I work alongside clients and see that we are joint partners in any therapy experience . My aim is not to keep you in therapy but to allow you to set the pace.</blockquote>
     		</header>
     	</div>
     </section>
@@ -83,13 +83,8 @@ nav-menu: true
     				<div class="6u 12u$(small)">
     						<h3>Confidential, Private Setting</h3>
 
-    						<p>Paola provides a confidential and private setting which facilitates a process whereby unconscious patterns of the person’s inner world are reflected in the relationship with the therapist. Therapy can be brief, long-term or short-term, depending on individual needs. Psychotherapists also must be honest about their own weaknesses and areas for growth in this process, we also have an unconscious.</p>
+    						<p>Paola provides a confidential and private setting which facilitates a process whereby unconscious patterns of the person’s inner world are reflected in the relationship with the therapist. Therapy can be brief, long-term or short-term, depending on individual needs. Psychotherapists also must be honest about their own weaknesses and areas for growth in this process we also have an unconscious.</p>
     				</div>
-    				<div class="6u$ 12u$(small)">
-    						<h3>Process</h3>
-
-    						<p>What attracts us to our partners is often the very thing that makes us eventually drift apart. Psychological marriage is about integrating within that which drew us to the other. If you want to know about your “shadow” think about the person that disturbs you the most, we often project into others what we cannot accept in ourselves. Similarly we choose partners that embody aspects we admire but are yet to realise in ourselves.</p>
-    				 </div>
     		</div>
     		<ul class="actions">
     			<li><a href="{{ 'contact.html' | relative_url  }}" class="button next">Contact</a></li>

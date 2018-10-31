@@ -2,7 +2,9 @@
 id: 2
 layout: landing
 title: First Meet
-description: “Be yourself; everyone else is already taken.” Oscar Wilde <br> Unfortunately, this is not always straightforward. Being “oneself “is often a difficult journey as from an early age we pick up expectations from many significant others. Many people enter therapy in mid life for example, despite having had  successful careers and intimate relationships, because of a sense of not feeling happy about their journey and where they are going. Most often this manifests as depression without an obvious cause, or marital conflicts or difficult peer relationships at work. Of course, some people will have had traumatic childhoods or experienced significant abuse and may have always struggled to find fulfilment or make close  relationships.  An initial telephone consultation is offered without cost as a preliminary exploration and screening tool to get an idea of how i can help and what is the right approach for you
+description: “Be yourself; everyone else is already taken.” Oscar Wilde <br> Unfortunately, this is not always straightforward. being “oneself “is often a difficult journey, as from an early age we pick up expectations from many significant others and influential people in our lives.<br>
+Many  people enter therapy in mid-life for example, despite having had successful careers and intimate relationships, because of a sense of not feeling happy about their journey and where they are going. Most often this manifests as depression without an obvious cause, or marital conflicts or difficult peer-relationships at work. Of course, some people will have had traumatic childhoods or experienced significant abuse and thus may have always struggled to trust others and find fulfilment or make close relationships.<br>
+An initial telephone consultation is offered without cost as a preliminary exploration and screening tool to get an idea of how we can help and what is the right approach for you, be that in therapy or through  a referral elsewhere in perhaps suggesting an alternative approach if relational  therapy is not the best option . 
 nav-menu: true
 ---
 

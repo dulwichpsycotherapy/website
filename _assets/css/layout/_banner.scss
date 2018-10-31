@@ -21,10 +21,10 @@
     @include vendor('transition', 'opacity #{_duration(banner)} ease');
     @include vendor('transition-delay', '0.35s');
     @include vendor('pointer-events', 'none');
-    @include vendor('background-image', url(asset_path('banner.jpg')));
+    @include vendor('background-image', url(asset_path('paola-park-right.jpg')));
     background-color: _palette(fg-alt);
     background-size: cover;
-    background-position: 0 15%;
+    background-position: center;
     content: '';
     display: block;
     height: 100%;
