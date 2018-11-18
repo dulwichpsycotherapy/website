@@ -1,7 +1,7 @@
 # site settings
 title: Dulwich Pyschotherapy
 subtitle: Dr. Paola Valerio
-email: paola@dulwichpsychsotherapy.com
+email: paola@dulwichpsychotherapy.com
 description: Dr Paola Valerio is a jungian analyst offering psychotherapy, therapy, counselling and couples counselling.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site
@@ -12,6 +12,7 @@ state: ''
 zip_code: SE24 0BT
 country: United Kingdom
 phone: 020 7733 8526
+mobile: 07850 497698
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
