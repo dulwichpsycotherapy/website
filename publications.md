@@ -43,30 +43,4 @@ nav-menu: true
     	</div>
     </section>
 
-    	<!-- One -->
-    <section id="one">
-    	<div class="inner">
-    			<div class="row">
-    				<div class="12u">
-    					<h3>Psychoanalytic Publishers and Journals</h3>
-    				</div>
-    			</div>
-    			<div class="row">
-    			<div class="6u 12u$(small)">
-    					<ul class="alt">
-    						<li>Free Association Books (Publisher - Psychoanalysis & Related Topics <a href="http://www.fabooks.com/">fabooks.com</a></li>
-    							<li>The International Journal of Psychoanalysis <a href="https://ijpa.org">ijpa.com</a></li>
-    						<li>Karnac Books (Bookseller/Publisher - Psychoanalysis & Related Topics) <a href="https://karnacbooks.com">karnacbooks.com</a></li>
-    					</ul>
-    			</div>
-    			<div class="6u 12u$(small)">
-    					<ul class="alt">
-    							<li>Psychoanalysis and Historys <a href="https://eupjournals.com">eurjournals.com</a></li>
-    							<li>Routledge & The Analytic Press (Psychoanalysis books, journals and resources) <a href="https://psychoanalysisarena.com">psychoanalysisarena.com</a></li>
-    					</ul>
-    			</div>
-    		</div>
-    		</div>
-    	</section>
-
 </div>
