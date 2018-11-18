@@ -57,6 +57,10 @@ nav-menu: true
     					<p>Training for Psychotherapists and Counseling and Clinical Psychologists who require clinical and/or  research supervision.</p>
     				</div>
     			</div>
+    		</div>
+    	</section>
+    <section id="three">
+    		<div class="inner">
     		<div class="row">
     				<div class="12u"><h3>Common types of therapy</h3></div>
     				<div class="6u 12u$(small)">
