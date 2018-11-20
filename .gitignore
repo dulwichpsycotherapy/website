@@ -10,6 +10,7 @@
 .ruby-gemset
 .ruby-version
 .sass-cache
+.history
 /test/source/file_name.txt
 /vendor
 Gemfile.lock

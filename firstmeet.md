@@ -15,7 +15,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<p>Many people enter therapy in mid-life for example, despite having had successful careers and intimate relationships, because of a sense of not feeling happy about their journey and where they are going. Most often this manifests as depression without an obvious cause, or marital conflicts or difficult peer-relationships at work. Of course, some people will have had traumatic childhoods or experienced significant abuse and thus may have always struggled to trust others and find fulfilment or make close relationships.</p>
-		<p>An initial telephone consultation is offered without cost as a preliminary exploration and screening tool to get an idea of how we can help and what is the right approach for you, be that in therapy or through  a referral elsewhere in perhaps suggesting an alternative approach if relational  therapy is not the best option.</p>
+		<p>An initial telephone consultation is offered without cost as a preliminary exploration and screening tool to get an idea of how we can help and what is the right approach for you, be that therapy or through a referral elsewhere in perhaps suggesting an alternative approach if relational therapy is not the best option.</p>
 	</div>
 </section>
 

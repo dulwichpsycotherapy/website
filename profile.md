@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Profile</h2>
 		</header>
-		<p>Dr. Valerio trained as a jungian analyst whilst working as a senior clinician at guy's hospital. An undergraduate at the university of edinburgh, she has completed post -graduate training at the universities of surrey and kent, where she completed her doctorate in psychotherapy (2005).</p>
+		<p>Dr. Valerio trained as a jungian analyst whilst working as a senior clinician at guy's hospital. An undergraduate at the university of edinburgh, she has completed post-graduate training at the Universities of Surrey and Kent, where she completed her doctorate in psychotherapy (2005).</p>
 		<p>She is an experienced Supervisor and university Lecturer being involved with Doctoral, Masters and Undergraduate programmes in clinical and counselling Psychology and Psychotherapy and a Training Analyst and Supervisor for several registered Psychotherapy and Counselling trainings. She has twenty years’ experience in the NHS in Child and Adult Mental Health, and as a Psychotherapist in Specialist Psychotherapy Services, assessing and working with patients and in supervising Psychotherapists and Psychologists.</p>
 		<p>She has also held Leadership roles for example as the Trust Lead for Domestic abuse, representing a large mental health trust on Serious Case Reviews panels. She has been a Chair of the external relations section of the BPC (Media) secretary of the research committee and Training Advisor and Tutor for British Psychotherapy Foundation (BPF). She teaches  Psychoanalytic and Jungian theory to Psychologists on a  professional doctorate programme.</p>
   </div>
