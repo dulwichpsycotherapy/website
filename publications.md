@@ -62,7 +62,7 @@ nav-menu: true
     			<div class="12u">
     					<ul class="alt">
     								<li><a href="/publications/psychoanalytic-conversion-brochure.pdf" target="_blank"><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; Post Qualification Certificate & Diploma in Psychoanalytic & Jungian Studies</a></li>
-    									<li><a href="/publications/CREST_debate_May_2018.pdf" target="_blank"><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; CREST debate May 2018</a></li>
+    									<li><a href="/publications/CREST_debate_May_2018.jpg" target="_blank"><i class="fa fa-2x fa-file-image-o"></i> &nbsp; CREST debate May 2018</a></li>
     									<li><a href="/publications/PSYC310518JN.pdf" target="_blank"><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; Countertransference: Contemporary relational views of the Therapists use of ‘Self’: A Myriad of Mirrors</a></li>
     					</ul>
     				</div>
