@@ -9,22 +9,17 @@ nav-menu: true
 <!-- Main -->
 
 <div id="main" class="alt">
-
-    <!-- One -->
     <section id="one">
     	<div class="inner">
     		<header class="major">
     			<h1>FAQ</h1>
     		</header>
-
-    		<!-- Content -->
     		<div class="row">
     			<div class="6u 12u$(small)">
     				<h3>What if I cannot afford therapy?</h3>
     					<p class="mdownf">Unfortunately Psychoanalytic Psychotherapy is not widely available in an equitable manner in the NHS, but it is always worth asking your GP for a referral for NHS Psychotherapy.</p>
     					<p class="mdownf">Most General Practitioners also have Counsellors who can offer short-term therapy usually up to six sessions.</p>
-    						<p class="mdownf"><a href="https://goo.gl/Ub5Sgg">Issues in Psychoanalytic Therapy See for example : Mark Solms (2018)</a> and <a href="
-    							https://theguardian.com/science/2016/jan/07/therapy-wars-revenge-of-freud-cognitive-behavioural-therapy">Oliver Burkeman in the The Guardian(2016)</a></p>
+							<p class="mdownf"><a href="https://goo.gl/Ub5Sgg" target="_blank">Issues in Psychoanalytic Therapy See for example : Mark Solms (2018)</a> and <a href="https://theguardian.com/science/2016/jan/07/therapy-wars-revenge-of-freud-cognitive-behavioural-therapy" target="_blank">Oliver Burkeman in the The Guardian(2016)</a></p>
     		  </div>
     				<div class="6u 12u$(small)">
     					<h3>Do you offer CBT?</h3>
@@ -41,7 +36,6 @@ nav-menu: true
     		  </div>
     			<div class="6u 12u$(small)">
     			  <h3 class="altcoldark mdownf mup">Can I use My Health Insurance cover? </h3>
-
     			  <p class="mdownf">This depends on the nature of your policy.</p>
     			  <p class="mdownf">You should check with your provider to see whether psychotherapy  sessions will be covered, how many sessions can be included and if there are any other restrictions. I am eligible and do register with the major health insurance providers as required.</p>
     			  <p class="mdownf">Please ask first, as you will be responsible for any payments, not the third party.</p>
@@ -51,7 +45,6 @@ nav-menu: true
     		<div class="row">
     			<div class="12u">
     			  <h3 class="altcoldark mdownf mup">Are you Registered?</h3>
-
     			  <p class="mdownf">I am fully registered and abide by the code of ethics of the BPC and UKCP  professional registers. I also have a Substantive NHS post in Psychotherapy and  receive regular CRB checks.</p>
     			</div>
     		</div>
@@ -59,7 +52,6 @@ nav-menu: true
     		<div class="row">
     			<div class="12u">
     			  <h3 class="altcoldark mdownf">How can I choose a therapist I can trust?</h3>
-
     			  <p class="mdownf">This is a very important question as there are a vast number of Counsellors and Psychotherapists who advertise their services and currently no law that prevents anyone from calling themselves  a Psychotherapist or Counsellor.</p>
     			  <p class="mdownf">So how do you know if your therapist is right for you?  Does the Psychotherapist provide a designated and private room for sessions, and are you treated with respect? Does the therapist maintain boundaries and give you time and an opportunity to ask appropriate questions? </p>
     			  <p>Alternatively does the therapist make inappropriate self-disclosures or ask intrusive questions, behave in a seductive manner or make sexual advances? If this occurs you can seek advice from your GP and /or the therapist’s registration body.</p>
@@ -69,5 +61,4 @@ nav-menu: true
     		</div>
     	</div>
     </section>
-
 </div>
