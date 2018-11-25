@@ -39,7 +39,7 @@ nav-menu: true
               <li>Poor self - esteem and anxiety.</li>
               <li>Trauma</li>
               <li>Bereavement</li>
-    						<li>Childhood abuse and neglect, adoption or institutional care: including boarding school.</li>
+    						<li>Childhood abuse and neglect, adoption or institutional care, including boarding school.</li>
           	</ul>
     			</div>
     		</div>
@@ -76,12 +76,11 @@ nav-menu: true
     						<dl>
     							<dt>Difficulties in Parenting and Counselling for Couples</dt>
     							<dd>
-    								<p>Feeling guilty about disliking our children or our failure to understand them. Being jealous of our partner’s relationships, including with children. Anxieties about recreating our own childhood patterns with our children. Adolescents commonly feel misunderstood and angry with parents –this is part of the process of separation and transition into adulthood. Jung reflected on the impact on children of the unlived or unfulfilled lives of parents.</p>
+    								<p>Feeling guilty about disliking our children or our failure to understand them. Being jealous of our partner’s relationships, including with children. Anxieties about recreating our own childhood patterns with our children.</p>
     							</dd>
     								<dt>Young adults</dt>
     								<dd>
-    										<p>Adolescents commonly feel misunderstood and angry with parents – this is part of the
-    										process of separation and transition into adulthood.</p>
+    										<p>Adolescents commonly feel misunderstood and angry with parents –this is part of the process of separation and transition into adulthood. Jung reflected on the impact on children of the unlived or unfulfilled lives of parents.</p>
     								</dd>
     									<dt>Addiction</dt>
     								<dd>

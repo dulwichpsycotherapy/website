@@ -50,9 +50,10 @@ nav-menu: true
     			<div class="row">
     			<div class="12u">
     					<ul class="alt">
-    								<li><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; <a href="/publications/psychoanalytic-conversion-brochure.pdf" target="_blank">Post Qualification Certificate & Diploma in Psychoanalytic & Jungian Studies</a></li>
-    									<li><i class="fa fa-2x fa-file-image-o"></i> &nbsp; <a href="/publications/CREST_debate_May_2018.jpg" target="_blank">CREST debate May 2018</a></li>
-    									<li><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; <a href="/publications/PSYC310518JN.pdf" target="_blank">Countertransference: Contemporary relational views of the Therapists use of ‘Self’: A Myriad of Mirrors</a></li>
+    							<li><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; <a href="/publications/psychoanalytic-conversion-brochure.pdf" target="_blank">Post Qualification Certificate & Diploma in Psychoanalytic & Jungian Studies</a></li>
+    							<li><i class="fa fa-2x fa-file-image-o"></i> &nbsp; <a href="/publications/CREST_debate_May_2018.jpg" target="_blank">CREST debate May 2018</a></li>
+    							<li><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; <a href="/publications/PSYC310518JN.pdf" target="_blank">Countertransference: Contemporary relational views of the Therapists use of ‘Self’: A Myriad of Mirrors</a></li>
+    								<li><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; <a href="/publications/UPCA2018_Conference.pdf" target="_blank">Universities Psychotherapy and Counselling Association and UKCP Universities Training College Conference 2018</a></li>
     					</ul>
     				</div>
     			</div>
