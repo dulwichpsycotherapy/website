@@ -65,18 +65,22 @@ nav-menu: true
     				<div class="12u"><h3>Common types of Therapy</h3></div>
     				<div class="6u 12u$(small)">
     						<dl>
-    								<dt>Difficulties in Parenting and Counselling for Couples</dt>
+    								<dt>Intimacy and Counselling for Couples</dt>
     								<dd>
-    										<p>Feeling guilty about disliking our children or our failure to understand them. Being jealous of our partner’s relationships, including with children. Anxieties about recreating our own childhood patterns with our children. Adolescents commonly feel misunderstood and angry with parents –this is part of the process of separation and transition into adulthood. Jung reflected on the impact on children of the unlived or unfulfilled lives of parents.</p>
+    										<p>Keeping desire alive is a common difficulty in long-term relationships, with many couples leading busy professional lives and navigating childcare responsibilities. One partner suddenly finds intimacy outside of the humdrum of the marriage or co-parenting and has an affair. Affairs happen for many reasons and sometimes can be a way to restore and not just destroy the partnership. Indeed it might be a way to create sufficient difference in couples who have begun to take each other for granted in order to refuel desire.</p>
+    										<p>What attracts us to our partners is often the very thing that makes us eventually drift apart. Psychological marriage is about integrating within that which drew us to the other. If you want to know about your “shadow” think about the person that disturbs you the most, we often project into others what we cannot accept in ourselves . Similarly, we  choose partners that embody aspects we admire but are yet to realise in ourselves</p>
     								</dd>
     						</dl>
     				</div>
     				<div class="6u$ 12u$(small)">
     						<dl>
-
+    							<dt>Difficulties in Parenting and Counselling for Couples</dt>
+    							<dd>
+    								<p>Feeling guilty about disliking our children or our failure to understand them. Being jealous of our partner’s relationships, including with children. Anxieties about recreating our own childhood patterns with our children. Adolescents commonly feel misunderstood and angry with parents –this is part of the process of separation and transition into adulthood. Jung reflected on the impact on children of the unlived or unfulfilled lives of parents.</p>
+    							</dd>
     								<dt>Young adults</dt>
     								<dd>
-    										<p>Adolescents commonly feel misunderstood and angry  with parents –this is part of the
+    										<p>Adolescents commonly feel misunderstood and angry with parents – this is part of the
     										process of separation and transition into adulthood.</p>
     								</dd>
     									<dt>Addiction</dt>

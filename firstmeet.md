@@ -2,7 +2,7 @@
 id: 2
 layout: landing
 title: First Meet
-description: “Be yourself; everyone else is already taken.” Oscar Wilde <br> Unfortunately, this is not always straightforward. being “oneself “is often a difficult journey, as from an early age we pick up expectations from many significant others and influential people in our lives.<br>
+description: “Be yourself; everyone else is already taken.” Oscar Wilde <br> Unfortunately, this is not always straightforward. Being “oneself “is often a difficult journey, as from an early age we pick up expectations from many significant others and influential people in our lives.<br>
 nav-menu: true
 ---
 
