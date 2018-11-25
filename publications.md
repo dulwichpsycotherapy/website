@@ -41,7 +41,6 @@ nav-menu: true
     					</ul>
     				</div>
     			</div>
-
     		<div class="row">
     			<div class="12u">
     					<h3>Selective Teaching/ Conferences</h3>
