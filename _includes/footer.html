@@ -3,6 +3,8 @@
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
+				<input type="hidden" name="_subject" value="Website contact from dulwichpsychotherapy.com" />
+				<input type="text" name="_gotcha" style="display:none" />
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" autocomplete="name" />
