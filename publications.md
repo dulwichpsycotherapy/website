@@ -14,7 +14,7 @@ nav-menu: true
     <section id="one">
     	<div class="inner">
     		<header class="major">
-    			<h1>Publications</h1>
+    			<h1>Selective Publications</h1>
     		</header>
 
     		<!-- Content -->
@@ -41,32 +41,22 @@ nav-menu: true
     					</ul>
     				</div>
     			</div>
-    	</div>
-    </section>
 
-<!-- One -->
-
-    <section id="one">
-    	<div class="inner">
-    		<header class="major">
-    			<h1>Publications</h1>
-    		</header>
-
-    		<!-- Content -->
     		<div class="row">
     			<div class="12u">
-    					<h3>Selected Publications and Teaching</h3>
+    					<h3>Selective Teaching/ Conferences</h3>
     					</div>
     				</div>
     			<div class="row">
     			<div class="12u">
     					<ul class="alt">
-    								<li><a href="/publications/psychoanalytic-conversion-brochure.pdf" target="_blank"><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; Post Qualification Certificate & Diploma in Psychoanalytic & Jungian Studies</a></li>
-    									<li><a href="/publications/CREST_debate_May_2018.jpg" target="_blank"><i class="fa fa-2x fa-file-image-o"></i> &nbsp; CREST debate May 2018</a></li>
-    									<li><a href="/publications/PSYC310518JN.pdf" target="_blank"><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; Countertransference: Contemporary relational views of the Therapists use of ‘Self’: A Myriad of Mirrors</a></li>
+    								<li><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; <a href="/publications/psychoanalytic-conversion-brochure.pdf" target="_blank">Post Qualification Certificate & Diploma in Psychoanalytic & Jungian Studies</a></li>
+    									<li><i class="fa fa-2x fa-file-image-o"></i> &nbsp; <a href="/publications/CREST_debate_May_2018.jpg" target="_blank">CREST debate May 2018</a></li>
+    									<li><i class="fa fa-2x fa-file-pdf-o"></i> &nbsp; <a href="/publications/PSYC310518JN.pdf" target="_blank">Countertransference: Contemporary relational views of the Therapists use of ‘Self’: A Myriad of Mirrors</a></li>
     					</ul>
     				</div>
     			</div>
+    	</div>
     	</div>
     </section>
 
