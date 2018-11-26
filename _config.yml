@@ -1,7 +1,7 @@
 # site settings
 title: Dulwich & Herne Hill Pyschotherapy
 subtitle: Dr. Paola Valerio
-email: paola@dulwichpsychotherapy.com
+email: contact@dulwichpsychotherapy.com
 description: Dr Paola Valerio is a jungian analyst offering psychotherapy, therapy, counselling and couples counselling in Dulwich, South London.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://dulwichpsychotherapy.com' # the base hostname & protocol for your site
