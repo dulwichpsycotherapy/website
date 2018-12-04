@@ -56,6 +56,7 @@ nav-menu: true
 	<section>
 		<div class="image">
 			{% img 'bee-hive.jpg' data-position:'25% 25%' alt:'pic' image_optim:default %}
+			<blockquote class="imageOverlay">Credit: Sebastian Simpson-Bandidin</blockquote>
 		</div>
 		<div class="content">
 			<div class="inner">

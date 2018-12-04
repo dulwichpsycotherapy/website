@@ -58,3 +58,11 @@ img {
 			}
 		}
 	}
+
+	.imageOverlay {
+		position: absolute;
+    bottom: -2.3rem;
+    padding: 0 2rem;
+    z-index: 0;
+    background: rgba(255,255,255,0.8);
+	}
