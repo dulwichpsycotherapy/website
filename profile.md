@@ -38,7 +38,7 @@ nav-menu: true
 					<li>Registered with the British Psychoanalytic Council <a href="https://www.bpc.org.uk/" target="_blank">BPC</a></li>
 					<li>Registered psychotherapist of the United Kingdom For Psychotherapy <a href="http://www.ukcp.org.uk" target="_blank">UKCP</a></li>
 					<li>Full member of the Association for Psychoanalytic Psychotherapy in the <a href="http://www.nhs.uk" target="_blank">NHS</a></li>
-					<li>Member of the confederation for analytical psycologists</li>
+					<li>Member of the confederation for analytical psychologists</li>
 					<li>Fellow of the higher education academy <a href="https://www.heacademy.ac.uk/" target="_blank">HEA</a></li>
 				</ul>
 			</div>
