@@ -17,6 +17,10 @@
 					<label for="message">Message</label>
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
+				<div class="field">
+					<label for="rec">Recaptcha</label>
+					<div id="rec-v3"></div>
+				</div>
 				<ul class="actions">
 					<li>
 						<input type="submit" value="Send Message" class="special" />
@@ -142,4 +146,6 @@
 
 <!-- Scripts -->
 {% js main async %}
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>
+</script>
 <!--[if lte IE 8]>{% js vendors/ie/respond.min async %}<![endif]-->
