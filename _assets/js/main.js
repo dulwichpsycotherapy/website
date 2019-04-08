@@ -2,6 +2,7 @@
 //= require vendors/jquery.scrollex
 //= require vendors/jquery.scrolly
 //= require vendors/skel
+//= require util
 
 /**
  * Initialise the application skel
@@ -111,12 +112,12 @@
       $body.addClass('is-ie');
 
     // Prioritize "important" elements on medium.
-    // skel.on('+medium -medium', function() {
-    //   $.prioritize(
-    //     '.important\\28 medium\\29',
-    //     skel.breakpoint('medium').active,
-    //   );
-    // });
+    skel.on('+medium -medium', function() {
+      $.prioritize(
+        '.important\\28 medium\\29',
+        skel.breakpoint('medium').active,
+      );
+    });
 
     // Scrolly.
     $('.scrolly').scrolly({
