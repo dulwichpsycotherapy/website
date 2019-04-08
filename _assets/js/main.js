@@ -2,6 +2,7 @@
 //= require vendors/jquery.scrollex
 //= require vendors/jquery.scrolly
 //= require vendors/skel
+//= require util
 
 /**
  * Initialise the application skel
