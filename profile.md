@@ -39,7 +39,7 @@ nav-menu: true
 					<li>Registered psychotherapist of the United Kingdom For Psychotherapy <a href="http://www.ukcp.org.uk" target="_blank">UKCP</a></li>
 					<li>Full member of the Association for Psychoanalytic Psychotherapy in the <a href="http://www.nhs.uk" target="_blank">NHS</a></li>
 					<li>Member of the confederation for analytical psychologists</li>
-					<li>Fellow of the higher education academy <a href="https://www.heacademy.ac.uk/" target="_blank">HEA</a></li>
+					<li>Fellow of the higher education academy <a href="https://heacademy.ac.uk/" target="_blank">HEA</a></li>
 				</ul>
 			</div>
 		</div>
