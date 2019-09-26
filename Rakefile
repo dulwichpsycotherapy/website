@@ -9,7 +9,8 @@ task :test do
     :check_img_http => true,
     :cache => {
       :timeframe => '6w'
-    }
+    },
+    :url_ignore => [/heacademy.ac.uk/],
   }
   HTMLProofer.check_directory("./_site", options).run
 end
