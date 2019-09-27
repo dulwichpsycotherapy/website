@@ -59,7 +59,7 @@ nav-menu: true
     			</div>
     		</div>
     	</section>
-    <section id="three">
+    <section id="four">
     		<div class="inner">
     		<div class="row">
     				<div class="12u"><h3>Common types of Therapy</h3></div>

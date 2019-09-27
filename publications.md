@@ -31,7 +31,7 @@ nav-menu: true
     							<li>Taylor & Francis Online: <a href="http://www.tandfonline.com/doi/abs/10.1080/02668730902920405">Sorrow, shame, and self-esteem: Perception of self and others in groups for women survivors of child sexual abuse</a> - Psychoanalytic Psychotherapy - Volume 23, Issue 2</li>
     							<li><a href="http://gaq.sagepub.com/content/43/1/31.abstract">Change and Process in Short and Long-term Groups for Survivors of Sexual Abuse</a> - Sage Journals - 2010</li>
     							<li><a href="https://books.google.co.uk/books?id=dEcVAgAAQBAJ">Love and hate: psychoanalytic perspectives</a> - Google Books</li>
-									<li><a href="https://www.amazon.co.uk/Introduction-Countertransference-Therapeutic-Practice-Mirrors/dp/1138690112">Is oedipus still blind? A countertransference take on love and hate in the consulting room.</a> - Valerio, Paola - European Journal of Psychotherapy & Counselling Publisher: Taylor & Francis - Sept 2019.<li>
+									<li><a href="https://www.amazon.co.uk/Introduction-Countertransference-Therapeutic-Practice-Mirrors/dp/1138690112">Is oedipus still blind? A countertransference take on love and hate in the consulting room.</a> - Valerio, Paola - European Journal of Psychotherapy & Counselling Publisher: Taylor & Francis - Sept 2019</li>
     					</ul>
     				</div>
     				<div class="6u 12u$(small)">
