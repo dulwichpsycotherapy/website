@@ -39,6 +39,9 @@ nav-menu: true
     						<li><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1752-0118.1997.tb00348.x/abstract">Secret Friends: Borderline symptomatology and post-traumatic stress disorder in a case of reported sexual abuse</a> - 2006 - British Journal of Psychotherapy - Wiley Online Library</li>
     						<li><a href="https://books.google.co.uk/books?id=28HyjGxAPW4C">The Therapeutic Frame in the Clinical Context: Integrative Perspectives</a> - Google Books</li>
     						<li><a href="http://containerandcontained.wordpress.com/">Container And Contained</a> - a view over bloomsbury, over london, over athens, over psychoanalysis, over thoughts that come to my mind - Jasmin Vardimon</li>
+								<li><a href="https://www.terkko.helsinki.fi/article/21952730_is-oedipus-still-blind-a-countertransference-take-on-love-and-hate-in-the-consulting-room">Is Oedipus still blind? A countertransference take on love and hate in the consulting room</a> - 2019 - Terkko</li>
+								<li><a href="https://www.britishpsychotherapyfoundation.org.uk/insights/publications/members-publications">Introduction to Countertransference in Therapeutic Practice. A Myriad of Mirrors</a> - 2018 - BFP</li>
+								<li><a href="https://estore.roehampton.ac.uk/conferences-and-events/conferences/counter-transference/countertransference-contemporary-relational-views-of-the-therapists-use-of-self">Countertransference: Contemporary relational views of the Therapists use of ‘Self’</a> - 2019</li>
     					</ul>
     				</div>
     			</div>
