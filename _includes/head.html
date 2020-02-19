@@ -13,10 +13,10 @@
     crossorigin="anonymous"
     media="screen, projection"
   />
-  <!--[if lte IE 8]>{% js vendors/ie/html5shiv %}<![endif]-->
-  {% css main media:"screen, projection" %}
-  <!--[if lte IE 9]>{% css ie9 %}<![endif]-->
-  <!--[if lte IE 8]>{% css ie8 %}<![endif]-->
+  <!--[if lte IE 8]>{% asset vendors/ie/html5shiv %}<![endif]-->
+  {% asset main.css media:"screen, projection" %}
+  <!--[if lte IE 9]>{% asset ie9.css %}<![endif]-->
+  <!--[if lte IE 8]>{% asset ie8.css %}<![endif]-->
   <link
     rel="apple-touch-icon"
     sizes="57x57"

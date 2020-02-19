@@ -6,7 +6,7 @@
   <article>
     {% if page.image %}
     <span class="image">
-      {% img '{{ page.image }}' alt:{{ page.title }} image_optim:default %}
+      {% asset '{{ page.image }}' alt:'{{ page.title }}' optim=optimized %}
     </span>
     {% endif %}
     <header class="major">

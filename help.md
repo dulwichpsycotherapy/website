@@ -25,7 +25,7 @@ nav-menu: true
     <!-- Spotlight -->
     <section id="two" class="spotlights">
     	<section>
-    		{% img 'puddle-lights.jpg' data-position:'25% 25%' alt:'pic' image_optim:default %}
+    		{% asset 'puddle-lights.jpg' data-position:'25% 25%' alt:'pic' optim=optimized %}
     		<div class="content">
     			<div class="inner">
     				<header class="major">

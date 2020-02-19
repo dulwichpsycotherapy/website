@@ -2,60 +2,32 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/contact@dulwichpsychotherapy.com" method="POST">
-				<input type="hidden" name="_subject" value="Website contact from dulwichpsychotherapy.com" />
-				<input type="text" name="_gotcha" style="display:none" />
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" autocomplete="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" autocomplete="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li>
-						<input type="submit" value="Send Message" class="special" />
-					</li>
-					<li>
-						<input type="reset" value="Clear" />
-					</li>
-				</ul>
-			</form>
+			<div class="contact-method">
+				<span class="icon alt fa fa-envelope"></span>
+				<h3>Email</h3>
+				<a href="mailto:contact@dulwichpsychotherapy.com">{{ site.email }}</a>
+			</div>
 		</section>
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="mailto:contact@dulwichpsychotherapy.com">{{ site.email }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
-					<br>
-					<span>{{ site.mobile }}</span>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>
-						{% if site.street_address %} {{ site.street_address }}
-						<br /> {% endif %} {% if site.city %} {{ site.city }}, {% endif %} {% if site.state %} {{ site.state }} {% endif %} {% if
-						site.zip_code %} {{ site.zip_code }}
-						<br /> {% endif %} {% if site.country %} {{ site.country }} {% endif %}
-					</span>
-				</div>
-			</section>
+		<section>
+			<div class="contact-method">
+				<span class="icon alt fa-phone"></span>
+				<h3>Phone</h3>
+				<span>{{ site.phone }}</span>
+				<br>
+				<span>{{ site.mobile }}</span>
+			</div>
+		</section>
+		<section>
+			<div class="contact-method">
+				<span class="icon alt fa-home"></span>
+				<h3>Address</h3>
+				<span>
+					{% if site.street_address %} {{ site.street_address }}
+					<br /> {% endif %} {% if site.city %} {{ site.city }}, {% endif %} {% if site.state %} {{ site.state }} {% endif %} {% if
+					site.zip_code %} {{ site.zip_code }}
+					<br /> {% endif %} {% if site.country %} {{ site.country }} {% endif %}
+				</span>
+			</div>
 		</section>
 	</div>
 </section>
@@ -141,7 +113,7 @@
 </div>
 
 <!-- Scripts -->
-{% js main async %}
+{% asset main.js async %}
 <script src="https://www.google.com/recaptcha/api.js" async defer>
 </script>
-<!--[if lte IE 8]>{% js vendors/ie/respond.min async %}<![endif]-->
+<!--[if lte IE 8]>{% asset vendors/ie/respond.min async %}<![endif]-->

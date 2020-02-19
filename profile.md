@@ -25,7 +25,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<div class="image">
-			{% img 'flower.jpeg' data-position:'center center' alt:'pic' image_optim:default %}
+			{% asset 'flower.jpeg' data-position:'center center' alt:'pic' optim=optimized %}
 		</div>
 		<div class="content">
 			<div class="inner">

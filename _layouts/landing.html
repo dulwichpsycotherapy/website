@@ -11,7 +11,7 @@
     <div class="inner">
       {% if page.image %}
       <span class="image">
-        {% img '{{page.image}}' alt:'Landing' image_optim:default %}
+        {% asset '{{page.image}}' alt:'Landing' optim=optimized %}
       </span>
       {% endif %}
       <header class="major">
