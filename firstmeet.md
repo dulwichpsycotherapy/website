@@ -55,7 +55,7 @@ nav-menu: true
 <section id="three" class="spotlights">
 	<section>
 		<div class="image">
-			{% asset 'bee-hive.jpg' data-position:'25% 25%' alt:'pic' optim=default %}
+			{% asset 'bee-hive.jpg' data-position='25% 25%' alt='bee hive' optim=default %}
 			<blockquote class="imageOverlay">Credit: Sebastian Simpson-Bandidin</blockquote>
 		</div>
 		<div class="content">

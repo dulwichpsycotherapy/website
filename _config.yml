@@ -74,5 +74,6 @@ assets:
     img:
       optim:
         default:
+          pngout: false
           optipng:
             level: 5
