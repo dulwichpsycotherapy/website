@@ -20,5 +20,5 @@ task :deploy do
 
   Rake::Task["test"].invoke
 
-  sh "cp -r ./.asset-cache ./assets && rm -r _assets"
+  sh "cp -r ./assets && rm -r _assets"
 end

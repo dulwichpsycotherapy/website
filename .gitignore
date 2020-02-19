@@ -1,13 +1,12 @@
 *.gem
 *.swp
 *~
-.asset-cache/
 .DS_Store
 .analysis
 .bundle/
 .byebug_history
 .jekyll-metadata
-.jekyll-cache/**/*
+.jekyll-cache
 .ruby-gemset
 .ruby-version
 .sass-cache
