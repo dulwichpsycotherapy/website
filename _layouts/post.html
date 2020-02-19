@@ -17,7 +17,7 @@
           <header class="major">
             <h1>{{ page.title }}</h1>
           </header>
-          {% if page.image %}<span class="image main">{% asset '{{page.image}}' alt:'{{page.title}}' optim=optimized %}</span>{% endif %}
+          {% if page.image %}<span class="image main">{% asset '{{page.image}}' alt:'{{page.title}}' optim=default %}</span>{% endif %}
           <p>{{ content }}</p>
         </div>
       </section>

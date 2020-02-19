@@ -73,5 +73,6 @@ assets:
   plugins:
     img:
       optim:
-        optipng:
-          level: 5
+        default:
+          optipng:
+            level: 5
